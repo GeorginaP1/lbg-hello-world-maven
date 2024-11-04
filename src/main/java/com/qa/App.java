@@ -32,4 +32,5 @@ public class App
 
     public static String sayBoo() {
         return "Boo!";
+    }
 }
